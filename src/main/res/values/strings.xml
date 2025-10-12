@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AutoFlow</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragment labels -->
+    <string name="dashboard_label">Dashboard</string>
+    <string name="settings_label">Settings</string>
+
+    <!-- Navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- App description -->
+    <string name="app_description">
+        AutoFlow is your smart expense tracking companion. Automatically capture and categorize
+        your expenses with intelligent recognition technology. Get real-time insights into your
+        spending patterns and take control of your finances.
+    </string>
+
+    <!-- Dashboard strings -->
+    <string name="expense_summary">Expense Summary</string>
+    <string name="simulate_expense_capture">Simulate Expense Capture</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="no_expenses_yet">No expenses yet. Start by capturing your first expense!</string>
+
+    <!-- Settings strings -->
+    <string name="user_information">User Information</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="clear_all_data">Clear All Data</string>
+
+    <!-- Currency -->
+    <string name="currency_symbol">₹</string>
+
+    <!-- Messages -->
+    <string name="signed_in_successfully">Signed in successfully!</string>
+    <string name="sign_in_failed">Sign in failed: %1$s</string>
+    <string name="expense_captured_successfully">Expense captured successfully!</string>
+    <string name="failed_to_capture_expense">Failed to capture expense: %1$s</string>
+    <string name="signed_out_successfully">Signed out successfully</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material Design Light Theme Colors -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Darker Purple -->
+    <color name="colorOnPrimary">@color/white</color>
+
+    <color name="colorSecondary">#03DAC6</color> <!-- Teal -->
+    <color name="colorSecondaryVariant">#018786</color> <!-- Darker Teal -->
+    <color name="colorOnSecondary">@color/black</color>
+
+    <color name="colorBackground">@color/white</color>
+    <color name="colorOnBackground">@color/black</color>
+
+    <color name="colorSurface">@color/white</color>
+    <color name="colorOnSurface">@color/black</color>
+
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">@color/white</color>
+
+    <!-- Theme-aware text colors -->
+    <color name="text_primary">@color/black</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+</resources>
