@@ -4,6 +4,12 @@
 
 AutoFlow is an intelligent expense tracking system that leverages **Machine Learning and Deep Learning** to automatically capture, parse, and analyze expenses from multiple sources. The app combines advanced AI technologies including **OpenRouter LLM APIs**, **ML Kit OCR**, and **smart trend analysis** to provide seamless expense management.
 
+## Demo Videos & Tutorials
+
+- **App Walkthroug and Notification Feature**: [AutoFlow AI Expense Tracking Demo](https://www.youtube.com/shorts/V44hwsA3pAY) 
+- **Camera Capture & AI Parsing**: [Receipt Processing with Computer Vision](https://www.youtube.com/shorts/D-dmW7naw2c)
+- **Gallery Upload & Trend Analysis**: [Spending Analytics and Pattern Recognition](https://www.youtube.com/shorts/FH29R9n1iok)
+
 ## Key Features
 
 ### Intelligent Expense Parsing (ML/OCR & LLM)
@@ -192,11 +198,7 @@ Once configured, AutoFlow operates as an intelligent expense assistant that lear
 - **Offline Capability**: Local processing ensures functionality even without internet connectivity
 - **Learning Capability**: Improves accuracy over time through pattern recognition and user feedback
 
-## Demo Videos & Tutorials
 
-- **App Walkthroug and Notification Feature**: [AutoFlow AI Expense Tracking Demo](https://www.youtube.com/shorts/V44hwsA3pAY) 
-- **Camera Capture & AI Parsing**: [Receipt Processing with Computer Vision](https://www.youtube.com/shorts/D-dmW7naw2c)
-- **Gallery Upload & Trend Analysis**: [Spending Analytics and Pattern Recognition](https://www.youtube.com/shorts/FH29R9n1iok)
 ## Contributing
 
 We welcome contributions to improve AutoFlow's AI capabilities and features! Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for:
