@@ -1,4 +1,4 @@
-# AutoFlow — AI-Powered Expense Tracking
+# AutoFlow:- AI-Powered Expense Tracking
 
 ## Overview
 
