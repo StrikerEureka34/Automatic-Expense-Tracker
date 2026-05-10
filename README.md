@@ -206,6 +206,7 @@ We welcome contributions to improve AutoFlow's AI capabilities and features! Ple
 - Guidelines for improving expense parsing accuracy
 - Adding new OpenRouter models and testing procedures
 - Bug reporting and feature requests
+- Code yet to made public, due to ongoing research efforts.
 
 
 ## Acknowledgments
